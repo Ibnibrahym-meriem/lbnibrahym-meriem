@@ -18,7 +18,7 @@
 
 ---
 
-## 🛠 Stack technique
+## 🚀 Stack technique
 
 ### 🧠 Data Science & AI
 <p align="left">
